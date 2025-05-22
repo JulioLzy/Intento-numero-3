@@ -33,7 +33,7 @@ if (botonNo && audioOof) {
   });
 }
 const frases = [
-  { texto: "Incluso si me odias, seguiré amándote” 💘", imagen: "imagenes/Naruto.jpg" },
+  { texto: "Yo estoy aquí porque quiero estarlo. Caro, yo… te amo. Me gustaría estar contigo, siempre” 💘", imagen: "imagenes/Naruto.jpg" },
   { texto: "Caro... tú eres mi única esperanza... mi única alegría...” 🌸", imagen: "imagenes/Jojos.jpg" },
   { texto: "Asi que Caro, tú dame la mitad de tu vida, y yo te daré la mitad de la mia” ✨", imagen: "imagenes/Metal.jpg" },
   { texto: "Cuando estoy contigo, todo se siente mas claro. Como si el sol saliera para mi” 🌞", imagen: "imagenes/Hunter.jpg" },
